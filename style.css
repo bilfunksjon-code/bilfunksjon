@@ -99,6 +99,9 @@ th, td {
 
 th { color: var(--muted); font-weight: 600; }
 
+.table-wrap { overflow-x: auto; }
+.table-wrap table { min-width: 560px; }
+
 footer {
   margin-top: 48px;
   padding-top: 16px;
